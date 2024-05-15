@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "name": "Arushi Gaur",
+      "dob": "1996-07-08T18:30:00.000Z",
+      "salary": "1500000",
+      "joining_date": "2023-10-28T23:16:49.820Z",
+      "relieving_date": "2023-11-27T23:16:49.820Z",
+      "contact": "9876543210",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "name": "Gaurav Singh",
+      "dob": "1906-06-22T18:30:00.000Z",
+      "salary": 10000,
+      "joining_date": "2023-10-28T23:18:46.345Z",
+      "relieving_date": "2023-11-27T23:18:46.345Z",
+      "contact": "9876543210",
+      "status": "active",
+      "id": 2
+    }
+  ]
+}

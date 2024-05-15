@@ -1,0 +1,25 @@
+{
+  "selectors":{
+    "addEmployeeButton":"[href='/add-employee']",
+    "nameField":"#name",
+    "birthDate":"#dob",
+    "salaryField":"#salary",
+    "joiningDateField":"#joining date",
+    "relievingDateField":"[class='react-datepicker__input-container']>input",
+    "contactField":"#contact",
+    "statusField":"#status",
+    "submitButton":".mt-4",
+    "table":"tbody>tr",
+    "td":"td",
+    "formTitle":".text-center"
+    
+    
+  },
+  "data":{
+   "dob" :"05-05-2000",
+   "joiningDate" : "06-06-2021",
+  "releivingDate":"02-02-2024",
+  "fieldErrorMsg":"Please fill all fields.",
+  "UpdateEmployeeText":"Update Employee"
+  }
+}
